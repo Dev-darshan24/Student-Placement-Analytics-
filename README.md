@@ -15,7 +15,3 @@
     PHASE 8 → Business Questions & Insights
             ↓
     PHASE 9 → Dashboard
-            ↓
-    PHASE 10 → GitHub Documentation
-            ↓
-    PHASE 11 → Resume / Portfolio
