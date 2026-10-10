@@ -4,13 +4,13 @@
 
 This dashboard provides an overview of student placement outcomes, including total students, placement rate, branch-wise placement rate, gender-wise placement rate, and internship-wise placement rate.
 
-![Placement Overview Dashboard](images/page1_placement_overview.png)
+![Placement Overview Dashboard](images/page_1.png)
 
 ### Page 2 — Detailed Analysis
 
 This page compares academic performance, aptitude, programming skills, communication skills, attendance, and package outcomes by placement status.
 
-![Detailed Analysis Dashboard](images/page2_detailed_analysis.png)
+![Detailed Analysis Dashboard](images/page_2.png)
 
 
 
