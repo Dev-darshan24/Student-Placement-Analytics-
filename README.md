@@ -1,3 +1,21 @@
+## Power BI Dashboard
+
+### Page 1 — Placement Overview
+
+This dashboard provides an overview of student placement outcomes, including total students, placement rate, branch-wise placement rate, gender-wise placement rate, and internship-wise placement rate.
+
+![Placement Overview Dashboard](images/page1_placement_overview.png)
+
+### Page 2 — Detailed Analysis
+
+This page compares academic performance, aptitude, programming skills, communication skills, attendance, and package outcomes by placement status.
+
+![Detailed Analysis Dashboard](images/page2_detailed_analysis.png)
+
+
+
+
+
 # Student Placement Analytics System
 
 An end-to-end data analytics project focused on analyzing student placement outcomes, identifying factors related to placement, and building an interactive dashboard for insights.
